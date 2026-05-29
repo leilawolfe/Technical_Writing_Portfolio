@@ -11,13 +11,13 @@ Senior Machine Learning & Software Engineer specializing in production AI/ML arc
     *   *Focus:* Environment setup, local toolchains, and developer onboarding.
 
 ## 🛠️ Deep-Dive Technical Tutorials
-*   **Google Cloud Observability Deep-Dive** (`/Google_Cloud_Observability_Technical_Piece`)
+*   **[Google Cloud Observability Deep-Dive](https://github.com/leilawolfe/Google_Cloud_Observability_Technical_Piece)**
     *   *Focus:* Setting up production telemetry, log aggregation, and real-time tracing for high-throughput applications.
-*   **RAG Architecture & Smart Chunking Strategies** (`/RAG_Technical_Piece`)
+*   **[RAG Architecture & Smart Chunking Strategies](https://github.com/leilawolfe/RAG_Technical_Piece)**
     *   *Focus:* Advanced Retrieval-Augmented Generation workflows. Details semantic vs. character-based text splitting with production-grade Python implementations.
 
 ## 💡 Engineering Thought Leadership
-*   **Do You Really Need LangChain? The Case for In-House Pipelines** (`/Langchain_vs_InHouseCode_Opinion_Piece`)
+*   **[Do You Really Need LangChain? The Case for In-House Pipelines](https://github.com/leilawolfe/Langchain_vs_InHouseCode_Opinion_Piece)**
     *   *Focus:* High-level architectural analysis of lightweight, native Python code vs. heavy framework abstractions for LLM applications.
-*   **Agentic Workflows: Production Realities vs. Hype** (`/Agentic_Workflows_Opinion_Piece`)
+*   **[Agentic Workflows: Production Realities vs. Hype](https://github.com/leilawolfe/Agentic_Workflows_Opinion_Piece)**
     *   *Focus:* Pragmatic decision frameworks on when autonomous agents add true value versus when deterministic state machines are required.
