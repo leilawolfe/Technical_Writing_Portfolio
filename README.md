@@ -1,5 +1,5 @@
 # Technical Writing Portfolio - Leila Wolfe
-
+<img src="Screenshot 2025-05-21 113157.png" alt="Leila Wolfe" width="150" align="right" style="border-radius: 50%; margin-left: 20px;"/>
 Senior Machine Learning & Software Engineer specializing in production AI/ML architectures, system observability, and developer tool chains.
 
 ## 🚀 Enterprise Publications (Red Hat)
