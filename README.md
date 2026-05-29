@@ -5,9 +5,9 @@ Senior Machine Learning & Software Engineer specializing in production AI/ML arc
 ## 🚀 Enterprise Publications (Red Hat)
 *   **[5 Things Sysadmins Should Know About Software Development](https://www.redhat.com/en/blog/software-development-sysadmins)** 
     *   *Focus:* DevOps integration, bridging systems engineering with clean software design paradigms.
-*   **How to Create a Rust Application on OpenShift** 
+*   **[How to Create a Rust Application on OpenShift](https://www.redhat.com/en/blog/install-rust-linux)** 
     *   *Focus:* Containerization, memory-safe system languages, and enterprise Kubernetes deployment.
-*   **How to Install and Run Rust on Linux** 
+*   **[How to Install and Run Rust on Linux](https://www.redhat.com/en/blog/create-rust-application-openshift)** 
     *   *Focus:* Environment setup, local toolchains, and developer onboarding.
 
 ## 🛠️ Deep-Dive Technical Tutorials
