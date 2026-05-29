@@ -1,8 +1,10 @@
-# Technical Writing Portfolio - Leila Wolfe
+<p align="center">
+  <img src="./assets/LWolfe1.png" alt="Leila Wolfe" width="160" height="160" style="border-radius: 50%;"/>
+</p>
 
-<img src="Screenshot 2025-05-21 113157.png" alt="Leila Wolfe" width="150" align="right" style="border-radius: 20%; margin-left: 20px;"/>
+# Technical Writing Portfolio  -  Leila Wolfe
 
-Senior Machine Learning & Software Engineer specializing in production AI/ML architectures, system observability, and developer tool chains.
+Senior Machine Learning & Software Engineer specializing in production AI/ML architectures, system observability, and data science.
 
 ## 🚀 Enterprise Publications (Red Hat)
 *   **[5 Things Sysadmins Should Know About Software Development](https://www.redhat.com/en/blog/software-development-sysadmins)** 
