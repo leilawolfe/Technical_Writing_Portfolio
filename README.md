@@ -1,2 +1,23 @@
-# Technical_Writing_Portfolio
-Technical Writing Porfolio
+# Technical Writing Portfolio - Leila Wolfe
+
+Senior Machine Learning & Software Engineer specializing in production AI/ML architectures, system observability, and developer tool chains.
+
+## 🚀 Enterprise Publications (Red Hat)
+*   **5 Things Sysadmins Should Know About Software Development** 
+    *   *Focus:* DevOps integration, bridging systems engineering with clean software design paradigms.
+*   **How to Create a Rust Application on OpenShift** 
+    *   *Focus:* Containerization, memory-safe system languages, and enterprise Kubernetes deployment.
+*   **How to Install and Run Rust on Linux** 
+    *   *Focus:* Environment setup, local toolchains, and developer onboarding.
+
+## 🛠️ Deep-Dive Technical Tutorials
+*   **Google Cloud Observability Deep-Dive** (`/Google_Cloud_Observability_Technical_Piece`)
+    *   *Focus:* Setting up production telemetry, log aggregation, and real-time tracing for high-throughput applications.
+*   **RAG Architecture & Smart Chunking Strategies** (`/RAG_Technical_Piece`)
+    *   *Focus:* Advanced Retrieval-Augmented Generation workflows. Details semantic vs. character-based text splitting with production-grade Python implementations.
+
+## 💡 Engineering Thought Leadership
+*   **Do You Really Need LangChain? The Case for In-House Pipelines** (`/Langchain_vs_InHouseCode_Opinion_Piece`)
+    *   *Focus:* High-level architectural analysis of lightweight, native Python code vs. heavy framework abstractions for LLM applications.
+*   **Agentic Workflows: Production Realities vs. Hype** (`/Agentic_Workflows_Opinion_Piece`)
+    *   *Focus:* Pragmatic decision frameworks on when autonomous agents add true value versus when deterministic state machines are required.
