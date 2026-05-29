@@ -7,7 +7,6 @@
 Senior Machine Learning & Software Engineer specializing in production AI/ML architectures, system observability, and data science.
 
 ## 🚀 Enterprise Publications (Red Hat)
-> Note: Formally known as Nicole Lama
 *   **[5 Things Sysadmins Should Know About Software Development](https://www.redhat.com/en/blog/software-development-sysadmins)** 
     *   *Focus:* DevOps integration, bridging systems engineering with clean software design paradigms.
 *   **[How to Create a Rust Application on OpenShift](https://www.redhat.com/en/blog/create-rust-application-openshift)** 
