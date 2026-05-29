@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/LWolfe1.png" alt="Leila Wolfe" width="160" height="160" style="border-radius: 50%;"/>
+  <img src="./assets/LWolfe2.png" alt="Leila Wolfe" width="160" height="160" style="border-radius: 50%;"/>
 </p>
 
 # Technical Writing Portfolio  -  Leila Wolfe
