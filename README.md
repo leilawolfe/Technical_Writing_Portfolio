@@ -4,18 +4,11 @@
 
 # Technical Writing Portfolio | Leila Wolfe
 **Senior Machine Learning & Software Engineer**
+
 *Specializing in production AI/ML architectures, system observability, and developer education.*
 
-[LinkedIn](https://www.linkedin.com/in/unicorncoding/) | [GitHub](https://github.com/unicorn-coding-coalition) | [leilanoellewolfe@gmail.com]
-
-
-## 🚀 Enterprise Publications (Red Hat)
-*   **[5 Things Sysadmins Should Know About Software Development](https://www.redhat.com/en/blog/software-development-sysadmins)** 
-    *   *Focus:* DevOps integration, bridging systems engineering with clean software design paradigms.
-*   **[How to Create a Rust Application on OpenShift](https://www.redhat.com/en/blog/create-rust-application-openshift)** 
-    *   *Focus:* Containerization, memory-safe system languages, and enterprise Kubernetes deployment.
-*   **[How to Install and Run Rust on Linux](https://www.redhat.com/en/blog/install-rust-linux)** 
-    *   *Focus:* Environment setup, local toolchains, and developer onboarding.
+>[LinkedIn](https://www.linkedin.com/in/unicorncoding/) | [GitHub](https://github.com/unicorn-coding-coalition) | 
+---
 
 ## 🛠️ Deep-Dive Technical Tutorials
 *   **[Google Cloud Observability & OpenLLMetry Deep-Dive](https://github.com/leilawolfe/Google_Cloud_Observability_Technical_Piece)**
@@ -28,6 +21,15 @@
     *   *Focus:* High-level architectural analysis of lightweight, native Python code vs. heavy framework abstractions for LLM applications.
 *   **[Agentic Workflows: Production Realities vs. Hype](https://github.com/leilawolfe/Agentic_Workflows_Opinion_Piece)**
     *   *Focus:* Pragmatic decision frameworks on when autonomous agents add true value versus when deterministic state machines are required.
+ 
+## 🚀 Enterprise Publications (Red Hat)
+*   **[5 Things Sysadmins Should Know About Software Development](https://www.redhat.com/en/blog/software-development-sysadmins)** 
+    *   *Focus:* DevOps integration, bridging systems engineering with clean software design paradigms.
+*   **[How to Create a Rust Application on OpenShift](https://www.redhat.com/en/blog/create-rust-application-openshift)** 
+    *   *Focus:* Containerization, memory-safe system languages, and enterprise Kubernetes deployment.
+*   **[How to Install and Run Rust on Linux](https://www.redhat.com/en/blog/install-rust-linux)** 
+    *   *Focus:* Environment setup, local toolchains, and developer onboarding.
+
 ## 🧬 Academic Publications
 *   **[RNA base-pairing complexity in living cells visualized by correlated chemical probing](https://pubmed.ncbi.nlm.nih.gov/31744869/)**
     *   *Focus:* Biotechnology and statistical analysis to visualize three-dimensional biological structures
