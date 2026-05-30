@@ -2,9 +2,12 @@
   <img src="./assets/LWolfe2.png" alt="Leila Wolfe" width="200" style="border-radius: 50%;"/>
 </p>
 
-# Technical Writing Portfolio  -  Leila Wolfe
+# Technical Writing Portfolio | Leila Wolfe
+**Senior Machine Learning & Software Engineer**
+*Specializing in production AI/ML architectures, system observability, and developer education.*
 
-Senior Machine Learning & Software Engineer specializing in production AI/ML architectures, system observability, and data science.
+[LinkedIn](https://www.linkedin.com/in/unicorncoding/) | [GitHub](https://github.com/unicorn-coding-coalition) | [leilanoellewolfe@gmail.com]
+
 
 ## 🚀 Enterprise Publications (Red Hat)
 *   **[5 Things Sysadmins Should Know About Software Development](https://www.redhat.com/en/blog/software-development-sysadmins)** 
