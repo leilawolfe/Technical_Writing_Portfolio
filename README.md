@@ -25,3 +25,11 @@ Senior Machine Learning & Software Engineer specializing in production AI/ML arc
     *   *Focus:* High-level architectural analysis of lightweight, native Python code vs. heavy framework abstractions for LLM applications.
 *   **[Agentic Workflows: Production Realities vs. Hype](https://github.com/leilawolfe/Agentic_Workflows_Opinion_Piece)**
     *   *Focus:* Pragmatic decision frameworks on when autonomous agents add true value versus when deterministic state machines are required.
+## 🚀 Academic Publications
+*   **[RNA base-pairing complexity in living cells visualized by correlated chemical probing](https://pubmed.ncbi.nlm.nih.gov/31744869/)**
+    *   *Focus:* Biotechnology and statistical analysis to visualize three-dimensional biological structures
+*   **[Ligand-binding pockets in RNA, and where to find them](https://pubmed.ncbi.nlm.nih.gov/40161846/)**
+    *   *Focus:* Bioinformatics and simulation to determine three-dimensional binding sites on molecules.
+
+ 
+
