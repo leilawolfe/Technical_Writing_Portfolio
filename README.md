@@ -11,7 +11,7 @@
 ---
 
 ## 🛠️ Deep-Dive Technical Tutorials
-*   **[Google Cloud Observability & OpenLLMetry Deep-Dive](https://github.com/leilawolfe/Google_Cloud_Observability_Technical_Piece)**
+*   **[OpenLLMetry and Google Cloud Platform Integration Tutorial](https://github.com/leilawolfe/Google_Cloud_Observability_Technical_Piece)**
     *   *Focus:* Setting up production telemetry, log aggregation, and real-time tracing for high-throughput applications.
 *   **[RAG Architecture & Smart Chunking Strategies](https://github.com/leilawolfe/RAG_Technical_Piece)**
     *   *Focus:* Advanced Retrieval-Augmented Generation workflows. Details semantic vs. character-based text splitting with production-grade Python implementations.
