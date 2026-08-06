@@ -5,21 +5,6 @@
   <strong>3-minute read</strong>
 </p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" valign="center">
-        <img src="https://raw.githubusercontent.com/traceloop/openllmetry/main/img/logo-dark.png" alt="OpenLLMetry Logo" width="180"/>
-      </td>
-      <td align="center" valign="center" style="font-size: 24px; font-weight: bold; padding: 0 20px;">
-        +
-      </td>
-      <td align="center" valign="center">
-        <img src="https://www.gstatic.com/cgc/google-cloud-logo.svg" alt="Google Cloud Platform Logo" width="180"/>
-      </td>
-    </tr>
-  </table>
-</div>
 ## Introduction
 
 Document extraction is the process of extracting structured data or attributes from unstructured documents such as invoices, contracts, and purchase orders. These attributes generally fall into two categories: *entities*, which are explicit values directly stated in the document, and *concepts*, which require interpretation or summarization. This distinction is important because entity extraction and concept extraction require different prompting strategies, evaluation methods, and quality metrics.
