@@ -22,7 +22,7 @@
 *   **[Agentic Workflows: Production Realities vs. Hype](https://github.com/leilawolfe/Agentic_Workflows_Opinion_Piece)**
     *   *Focus:* Pragmatic decision frameworks on when autonomous agents add true value versus when deterministic state machines are required.
 *   **[Entity Extraction vs Concept Extraction](https://github.com/leilawolfe/Technical_Writing_Portfolio/blob/main/articles/concept_entity_extraction.md)**
-    *   *Focus:* Pragmatic decision frameworks on when autonomous agents add true value versus when deterministic state machines are required.
+    *   *Focus:* High-level comparison of entity and concept document extraction.
  
 ## 🚀 Enterprise Publications (Red Hat)
 *   **[5 Things Sysadmins Should Know About Software Development](https://www.redhat.com/en/blog/software-development-sysadmins)** 
